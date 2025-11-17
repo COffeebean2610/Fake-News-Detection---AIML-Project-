@@ -1,4 +1,4 @@
-# Fake News Detection System
+# Fake News Detection System 
 
 ## Overview
 A machine learning-powered web application that analyzes news articles and predicts whether they are fake or real using natural language processing and logistic regression.
